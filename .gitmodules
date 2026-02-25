@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "aesopR"]
 	path = aesopR
-	url = https://github.com/cran/aesopR
+	url = https://github.com/davidbrocker/aesopr
